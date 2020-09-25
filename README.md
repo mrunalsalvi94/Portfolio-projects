@@ -2,7 +2,7 @@
 
 This repository contains my portfolio projects that portray my learning and skills for a career in Machine Learning.
 
-## 1.NLP project - Kaggle Mercari Challenge
+## 1.NLP project - Mercari price prediction
 Source: https://www.kaggle.com/c/mercari-price-suggestion-challenge
 
 **Evaluation metric: RSMLE**
