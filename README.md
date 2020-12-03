@@ -41,3 +41,11 @@ Source: https://www.kaggle.com/c/mercari-price-suggestion-challenge
 - Extensive EDA and addressing data imbalance using resampling techniques.
 - Use of Logistic regression, RandomForest and Gradient Boosting algorithms to determine F1-scores.
 - Understanding feature importance.
+
+## 4. Stock price and Sentiment Analysis:
+
+- Creating a hybrid model for stock price / performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines. This was done as a part of the internship. 
+- Performed data visualization to understand the trend of stock prices over a given range of time.
+- Performed different text processing and used sentiment analysis to determine the nature of news article.
+- Fitting RandomForest, SVM and LinearDiscriminantAnalysis models to evaluate performance.
+
